@@ -1,0 +1,3 @@
+change from local repo to remote upstream.
+Bob has made change in this s2 file,  add and commit it, and push to betty's remote repo.
+edit-s2:
